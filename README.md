@@ -1,8 +1,8 @@
 # Broly Color Correction
 
-![Frieza looking at Goku and Vegeta](Examples/Example1.png)
+A small script to rip, re-encode, and color correct Dragonball Super Broly to get rid of the green tint, and lower saturation. This is by no means a perfect color correction and doesn't exactly match the MangaUK version, but it's a huge improvement over what comes with the Blu Ray. Bash script for Mac/Linux available soon.
 
-A small script to rip, re-encode, and color correct Dragonball Super Broly to get rid of the green tint, and lower saturation. This is by no means a perfect color correction and doesn't exactly match the MangaUK version, but it's a huge improvement over what comes with the Blu Ray.
+![Frieza looking at Goku and Vegeta](Examples/Example1.png)
 
 ![Bardock and Gine](Examples/Example2.png)
 
