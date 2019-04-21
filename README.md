@@ -1,10 +1,18 @@
 # Broly Color Correction
 
-A small script to rip, re-encode, and color correct Dragonball Super Broly to get rid of the green tint, and lower saturation.
+![Frieza looking at Goku and Vegeta](Examples/Example1.png)
+
+A small script to rip, re-encode, and color correct Dragonball Super Broly to get rid of the green tint, and lower saturation. This is by no means a perfect color correction and doesn't exactly match the MangaUK version, but it's a huge improvement over what comes with the Blu Ray.
+
+![Bardock and Gine](Examples/Example2.png)
+
+![Vegeta](Examples/Example3.png)
+
+![Broyle and Goku](Examples/Example4.png)
 
 ## Prerequisites
 
-You will need the following installed and add their installation directory to your PATH environment variable:
+You will need the Blu Ray of Dragonball Super Broly affected by the green tint issue, and a Blu Ray drive for your computer. You will also need the following installed and their installation directories added to your PATH environment variable:
 
 * [MakeMKV](https://www.makemkv.com/download/)
 * [Handbrake](https://handbrake.fr/downloads.php)
