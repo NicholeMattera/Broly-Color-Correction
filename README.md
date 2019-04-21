@@ -34,5 +34,5 @@ Once you have them installed to add them to your PATH environment variable do th
 1. Insert your Dragonball Super Broly Blu Ray into your Blu Ray drive.
 2. Open up Powershell/Command Prompt.
 3. Navigate to where you extract `Process.bat` and `DBSB.acv`.
-4. Run `Process.bat C:\PATH_WHERE_YOU_WANT_TO_RIP_TO`.
+4. Run `Process.bat C:\PATH_WHERE_YOU_WANT_TO_RIP_TO`. (You will need around 40GB free.)
 5. It will do all the steps automatically and open the folder in explorer once it's done.
