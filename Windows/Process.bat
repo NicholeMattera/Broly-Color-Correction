@@ -25,7 +25,7 @@ IF ERRORLEVEL 1 (
 )
 
 echo Ripping title from disc...
-REM makemkvcon mkv disc:0 0 "%1"
+makemkvcon mkv disc:0 0 "%1"
 
 echo Re-encoding ripped video...
 HandBrakeCLI --input "%1\Dragon Ball Super Broly_t00.mkv" --output "%1\1.mkv" --audio-lang-list "und" --all-audio --all-subtitles --preset "Matroska/H.264 MKV 1080p30"
